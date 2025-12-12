@@ -97,10 +97,15 @@ This satisfies the course requirement of:
 
 
 ### 📈 Temperature Distribution (Boxplot)
-*Saved in artifacts/charts/*
+![Temp Distribution](artifacts/charts/Temp%20distribution%20%28boxplots%29.png)
+
 
 ### 🔥 Anomalies Detected (IsolationForest)
-*Saved in artifacts/charts/*
+![Temp Trend per Device](artifacts/charts/Temp%20trend%20per%20device%20%28subplots%29.png)
+
+
+![Detected Anomalies Only](artifacts/charts/detected%20only%20anomalies%20plot.png)
+
 
 ---
 
