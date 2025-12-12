@@ -26,11 +26,17 @@ This satisfies all required components for ICS 474 and includes the optional ML 
 ## 📌 Architecture Diagram
 
 IoT Producer → Input Folder (Simulated Kafka Buffer) → Spark Structured Streaming
+
 ↓ ↓
+
 JSON Message Files Window Aggregation (10s)
+
 ↓ ↓
+
 Storage Layer (Parquet) ← ML (IsolationForest)
+
 ↓
+
 Visualization (Plotly Dashboards)
 
 
