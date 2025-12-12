@@ -93,7 +93,7 @@ This satisfies the course requirement of:
 ## 📌 Sample Visualizations
 
 ### 📊 Temperature Trends per Device (Subplots)
-*Saved in artifacts/charts/*
+![Temperature Subplots](artifacts/charts/Temp trend per device (subplots).png)
 
 ### 📈 Temperature Distribution (Boxplot)
 *Saved in artifacts/charts/*
