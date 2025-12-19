@@ -5,6 +5,8 @@ The pipeline simulates IoT sensors, streams the data, processes it using Spark S
 
 Everything was implemented inside Google Colab using a Kafka-like file buffer because Colab cannot run Kafka brokers or background services.
 
+following 
+https://github.com/9475Abhinaba/iot-kafka-spark-streaming-pipeline
 ---
 
 ## 📌 Project Overview
